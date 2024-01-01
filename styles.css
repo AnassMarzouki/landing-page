@@ -19,6 +19,7 @@ body {
     margin: 0 auto;
     padding-top: 0px;
     padding-bottom: 0px;
+    box-sizing: border-box;
     
 }
 
@@ -56,6 +57,7 @@ h3 {
 .bold-txt{
     font-weight: bold;
     display: block;
+    color:#99D930
 }
 
 a {
@@ -88,6 +90,7 @@ button {
     padding:14px 14px 14px 14px;
     border:none;
     background-color: #99D930;
+    margin-bottom: 30px;
 
 }
 
